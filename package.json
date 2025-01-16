@@ -1,5 +1,6 @@
 {
   "name": "helloworld-extester",
+  "type": "module",
   "displayName": "HelloWorld ExTester",
   "description": "HelloWorld example extension for ExTester",
   "icon": "icons/logo.png",
